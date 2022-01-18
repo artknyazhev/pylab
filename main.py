@@ -83,3 +83,4 @@ while flag or not shop:
     print("Money: ", money, "$")
 
 print("Товаров 'B' куплено: ", _B, "\nДенег осталось: ", money, "$")
+#hello artknyazhev
